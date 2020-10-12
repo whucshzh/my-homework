@@ -1,0 +1,25 @@
+# my-homework
+10.12号老师作业
+源代码如下
+<HTML>
+<HEAD>
+<META name="Author"content="huzhihao"
+<META name="KEYWORDS"content="huzhihao homework"
+<TITLE>306 HUZHIHAO'S FIRST HTML HOMEWORK
+</TITLE>
+</HEAD>
+<BODY background="htmlbg3.jpg"> 
+<P>
+This is my first try for html coding.
+<BR>
+<FONT SIZE=7 
+<B>Wuhan university is the best university!</B></FONT>
+<BR>
+<!--"这个是用来测试注释功能的"-->
+<I> MY NAME IS HUZHIHAO ,I'M FROM SHANDONG PROVINCE</I>
+<SUB> GITHUB IS GREAT WEBSITE</SUB>
+</P>
+<p><EM> Comeputer has changed the whole world and led human to a new era.</EM>
+<BR>
+<FONT COLOR=RED> China no.1
+</BODY>
